@@ -1,4 +1,4 @@
-# Deepfake Detection Project 🎯
+# Deepfake Detection Project
 
 A concise implementation of our benchmark study on deepfake image detection.
 
