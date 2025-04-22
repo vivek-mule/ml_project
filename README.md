@@ -2,7 +2,7 @@
 
 A concise implementation of our benchmark study on deepfake image detection.
 
-This repository contains Jupyter notebooks for training, evaluating, and inferring six models under uniform settings, with explainability via Integrated Gradients.
+This repository contains Jupyter notebooks for training, evaluating, and inferring 8 models, with explainability via Integrated Gradients.
 
 ---
 
