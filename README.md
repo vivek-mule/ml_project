@@ -10,7 +10,7 @@ This repository contains Jupyter notebooks for training, evaluating, and inferri
 - **Research Paper**: https://drive.google.com/file/d/1on_rVulJUYvPSynlaRJvg6-wOMor4lhN/view?usp=sharing
 - **Models & Scripts**: https://drive.google.com/drive/folders/1wN_Tf4OQJ_8rhi6GGYfpYYaCHpewjp9K?usp=sharing 📂
 - **Datasets**:
-  - https://huggingface.co/datasets/JamieWithofs/Deepfake-and-real-images-4 📥
+  - https://huggingface.co/datasets/JamieWithofs/Deepfake-and-real-images 📥
   - https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images 📥
 
 ---
